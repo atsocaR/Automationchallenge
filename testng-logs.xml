@@ -1,0 +1,42 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Challenge TestSuite" thread-count="1" parallel="tests">
+	<test name="Challenge Chrome Test">
+	<parameter name = "browser" value="Chrome"/>
+		<classes>
+			<class name="testcases.AddAllProductsTest"></class>
+			<class name="testcases.AddProductTest"></class>
+			<class name="testcases.InvalidLoginTest"></class>
+			<class name="testcases.LogoutTest"></class>
+			<class name="testcases.PurchaseTest"></class>
+			<class name="testcases.SortProductsByPriceTest"></class>
+			<class name="testcases.ValidLoginTest"></class>
+		</classes>
+	</test>
+	
+	<test name="Challenge Firefox Test">
+	<parameter name = "browser" value="firefox"/>
+		<classes>
+			<class name="testcases.AddAllProductsTest"></class>
+			<class name="testcases.AddProductTest"></class>
+			<class name="testcases.InvalidLoginTest"></class>
+			<class name="testcases.LogoutTest"></class>
+			<class name="testcases.PurchaseTest"></class>
+			<class name="testcases.SortProductsByPriceTest"></class>
+			<class name="testcases.ValidLoginTest"></class>
+		</classes>
+	</test>
+	
+	<test name="Challenge Edge Test">
+	<parameter name = "browser" value="edge"/>
+		<classes>
+			<class name="testcases.AddAllProductsTest"></class>
+			<class name="testcases.AddProductTest"></class>
+			<class name="testcases.InvalidLoginTest"></class>
+			<class name="testcases.LogoutTest"></class>
+			<class name="testcases.PurchaseTest"></class>
+			<class name="testcases.SortProductsByPriceTest"></class>
+			<class name="testcases.ValidLoginTest"></class>
+		</classes>
+	</test>
+	
+</suite>

@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.AddAllProductsTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.AddProductTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.InvalidLoginTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.LogoutTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.PurchaseTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.SortProductsByPriceTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.ValidLoginTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.AddAllProductsTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.AddProductTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.InvalidLoginTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.LogoutTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.PurchaseTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.SortProductsByPriceTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.ValidLoginTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.AddAllProductsTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.AddProductTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.InvalidLoginTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.LogoutTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.PurchaseTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.SortProductsByPriceTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+    <line>
+      <![CDATA[Starting Test: testcases.ValidLoginTest]]>
+    </line>
+    <line>
+      <![CDATA[==========================================]]>
+    </line>
+  </reporter-output>
+  <suite name="Challenge TestSuite" duration-ms="753157" started-at="2021-05-21T07:31:49 CDT" finished-at="2021-05-21T07:44:22 CDT">
+    <groups>
+    </groups>
+    <test name="Challenge Chrome Test" duration-ms="245059" started-at="2021-05-21T07:31:49 CDT" finished-at="2021-05-21T07:35:54 CDT">
+      <class name="testcases.ValidLoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.ValidLoginTest@20140db9]" name="setUp" is-config="true" duration-ms="4181" started-at="2021-05-21T07:32:54 CDT" finished-at="2021-05-21T07:32:58 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validCredentials()[pri:0, instance:testcases.ValidLoginTest@20140db9]" name="validCredentials" duration-ms="9538" started-at="2021-05-21T07:35:44 CDT" finished-at="2021-05-21T07:35:53 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.ValidLoginTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.ValidLoginTest@20140db9]" name="tearDown" is-config="true" duration-ms="702" started-at="2021-05-21T07:35:53 CDT" finished-at="2021-05-21T07:35:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.ValidLoginTest -->
+      <class name="testcases.LogoutTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.LogoutTest@55634720]" name="setUp" is-config="true" duration-ms="2975" started-at="2021-05-21T07:32:44 CDT" finished-at="2021-05-21T07:32:47 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testcases.LogoutTest@55634720]" name="logOut" duration-ms="19696" started-at="2021-05-21T07:34:09 CDT" finished-at="2021-05-21T07:34:29 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.LogoutTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.LogoutTest@55634720]" name="tearDown" is-config="true" duration-ms="706" started-at="2021-05-21T07:34:29 CDT" finished-at="2021-05-21T07:34:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LogoutTest -->
+      <class name="testcases.InvalidLoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.InvalidLoginTest@290222c1]" name="setUp" is-config="true" duration-ms="3015" started-at="2021-05-21T07:32:41 CDT" finished-at="2021-05-21T07:32:44 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidCredentials()[pri:0, instance:testcases.InvalidLoginTest@290222c1]" name="invalidCredentials" duration-ms="12557" started-at="2021-05-21T07:33:56 CDT" finished-at="2021-05-21T07:34:09 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.InvalidLoginTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.InvalidLoginTest@290222c1]" name="tearDown" is-config="true" duration-ms="678" started-at="2021-05-21T07:34:09 CDT" finished-at="2021-05-21T07:34:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.InvalidLoginTest -->
+      <class name="testcases.PurchaseTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.PurchaseTest@534a5a98]" name="setUp" is-config="true" duration-ms="3998" started-at="2021-05-21T07:32:47 CDT" finished-at="2021-05-21T07:32:51 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="purchase()[pri:0, instance:testcases.PurchaseTest@534a5a98]" name="purchase" duration-ms="34763" started-at="2021-05-21T07:34:30 CDT" finished-at="2021-05-21T07:35:05 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.PurchaseTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- purchase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.PurchaseTest@534a5a98]" name="tearDown" is-config="true" duration-ms="712" started-at="2021-05-21T07:35:05 CDT" finished-at="2021-05-21T07:35:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.PurchaseTest -->
+      <class name="testcases.SortProductsByPriceTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.SortProductsByPriceTest@537f60bf]" name="setUp" is-config="true" duration-ms="2725" started-at="2021-05-21T07:32:51 CDT" finished-at="2021-05-21T07:32:54 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sortProductsByPrice()[pri:0, instance:testcases.SortProductsByPriceTest@537f60bf]" name="sortProductsByPrice" duration-ms="37860" started-at="2021-05-21T07:35:05 CDT" finished-at="2021-05-21T07:35:43 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.SortProductsByPriceTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sortProductsByPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.SortProductsByPriceTest@537f60bf]" name="tearDown" is-config="true" duration-ms="710" started-at="2021-05-21T07:35:43 CDT" finished-at="2021-05-21T07:35:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.SortProductsByPriceTest -->
+      <class name="testcases.AddAllProductsTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.AddAllProductsTest@342c38f8]" name="setUp" is-config="true" duration-ms="48999" started-at="2021-05-21T07:31:49 CDT" finished-at="2021-05-21T07:32:38 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addAllProducts()[pri:0, instance:testcases.AddAllProductsTest@342c38f8]" name="addAllProducts" duration-ms="35087" started-at="2021-05-21T07:32:58 CDT" finished-at="2021-05-21T07:33:33 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.AddAllProductsTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addAllProducts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AddAllProductsTest@342c38f8]" name="tearDown" is-config="true" duration-ms="689" started-at="2021-05-21T07:33:33 CDT" finished-at="2021-05-21T07:33:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddAllProductsTest -->
+      <class name="testcases.AddProductTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.AddProductTest@12aba8be]" name="setUp" is-config="true" duration-ms="2847" started-at="2021-05-21T07:32:38 CDT" finished-at="2021-05-21T07:32:41 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addProduct()[pri:0, instance:testcases.AddProductTest@12aba8be]" name="addProduct" duration-ms="21887" started-at="2021-05-21T07:33:34 CDT" finished-at="2021-05-21T07:33:56 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.AddProductTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AddProductTest@12aba8be]" name="tearDown" is-config="true" duration-ms="684" started-at="2021-05-21T07:33:56 CDT" finished-at="2021-05-21T07:33:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddProductTest -->
+    </test> <!-- Challenge Chrome Test -->
+    <test name="Challenge Firefox Test" duration-ms="238737" started-at="2021-05-21T07:35:54 CDT" finished-at="2021-05-21T07:39:53 CDT">
+      <class name="testcases.ValidLoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.ValidLoginTest@72bc6553]" name="setUp" is-config="true" duration-ms="8144" started-at="2021-05-21T07:36:34 CDT" finished-at="2021-05-21T07:36:42 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validCredentials()[pri:0, instance:testcases.ValidLoginTest@72bc6553]" name="validCredentials" duration-ms="9566" started-at="2021-05-21T07:39:42 CDT" finished-at="2021-05-21T07:39:51 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.ValidLoginTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.ValidLoginTest@72bc6553]" name="tearDown" is-config="true" duration-ms="1445" started-at="2021-05-21T07:39:51 CDT" finished-at="2021-05-21T07:39:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.ValidLoginTest -->
+      <class name="testcases.LogoutTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.LogoutTest@1caa0244]" name="setUp" is-config="true" duration-ms="6376" started-at="2021-05-21T07:36:11 CDT" finished-at="2021-05-21T07:36:18 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testcases.LogoutTest@1caa0244]" name="logOut" duration-ms="20202" started-at="2021-05-21T07:38:04 CDT" finished-at="2021-05-21T07:38:24 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.LogoutTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.LogoutTest@1caa0244]" name="tearDown" is-config="true" duration-ms="1158" started-at="2021-05-21T07:38:24 CDT" finished-at="2021-05-21T07:38:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LogoutTest -->
+      <class name="testcases.InvalidLoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.InvalidLoginTest@5b218417]" name="setUp" is-config="true" duration-ms="5825" started-at="2021-05-21T07:36:06 CDT" finished-at="2021-05-21T07:36:11 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidCredentials()[pri:0, instance:testcases.InvalidLoginTest@5b218417]" name="invalidCredentials" duration-ms="12798" started-at="2021-05-21T07:37:50 CDT" finished-at="2021-05-21T07:38:03 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.InvalidLoginTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.InvalidLoginTest@5b218417]" name="tearDown" is-config="true" duration-ms="1283" started-at="2021-05-21T07:38:03 CDT" finished-at="2021-05-21T07:38:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.InvalidLoginTest -->
+      <class name="testcases.PurchaseTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.PurchaseTest@1033576a]" name="setUp" is-config="true" duration-ms="8602" started-at="2021-05-21T07:36:18 CDT" finished-at="2021-05-21T07:36:26 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="purchase()[pri:0, instance:testcases.PurchaseTest@1033576a]" name="purchase" duration-ms="35637" started-at="2021-05-21T07:38:25 CDT" finished-at="2021-05-21T07:39:01 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.PurchaseTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- purchase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.PurchaseTest@1033576a]" name="tearDown" is-config="true" duration-ms="1191" started-at="2021-05-21T07:39:01 CDT" finished-at="2021-05-21T07:39:02 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.PurchaseTest -->
+      <class name="testcases.SortProductsByPriceTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.SortProductsByPriceTest@61c4eee0]" name="setUp" is-config="true" duration-ms="7131" started-at="2021-05-21T07:36:26 CDT" finished-at="2021-05-21T07:36:34 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sortProductsByPrice()[pri:0, instance:testcases.SortProductsByPriceTest@61c4eee0]" name="sortProductsByPrice" duration-ms="38821" started-at="2021-05-21T07:39:02 CDT" finished-at="2021-05-21T07:39:41 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.SortProductsByPriceTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sortProductsByPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.SortProductsByPriceTest@61c4eee0]" name="tearDown" is-config="true" duration-ms="1035" started-at="2021-05-21T07:39:41 CDT" finished-at="2021-05-21T07:39:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.SortProductsByPriceTest -->
+      <class name="testcases.AddAllProductsTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.AddAllProductsTest@350aac89]" name="setUp" is-config="true" duration-ms="5823" started-at="2021-05-21T07:35:54 CDT" finished-at="2021-05-21T07:36:00 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addAllProducts()[pri:0, instance:testcases.AddAllProductsTest@350aac89]" name="addAllProducts" duration-ms="39743" started-at="2021-05-21T07:36:42 CDT" finished-at="2021-05-21T07:37:21 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.AddAllProductsTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addAllProducts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AddAllProductsTest@350aac89]" name="tearDown" is-config="true" duration-ms="3417" started-at="2021-05-21T07:37:21 CDT" finished-at="2021-05-21T07:37:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddAllProductsTest -->
+      <class name="testcases.AddProductTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.AddProductTest@cc43f62]" name="setUp" is-config="true" duration-ms="5681" started-at="2021-05-21T07:36:00 CDT" finished-at="2021-05-21T07:36:06 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addProduct()[pri:0, instance:testcases.AddProductTest@cc43f62]" name="addProduct" duration-ms="22816" started-at="2021-05-21T07:37:25 CDT" finished-at="2021-05-21T07:37:48 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.AddProductTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AddProductTest@cc43f62]" name="tearDown" is-config="true" duration-ms="2035" started-at="2021-05-21T07:37:48 CDT" finished-at="2021-05-21T07:37:50 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddProductTest -->
+    </test> <!-- Challenge Firefox Test -->
+    <test name="Challenge Edge Test" duration-ms="269300" started-at="2021-05-21T07:39:53 CDT" finished-at="2021-05-21T07:44:22 CDT">
+      <class name="testcases.ValidLoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.ValidLoginTest@6cd24612]" name="setUp" is-config="true" duration-ms="11242" started-at="2021-05-21T07:40:52 CDT" finished-at="2021-05-21T07:41:04 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validCredentials()[pri:0, instance:testcases.ValidLoginTest@6cd24612]" name="validCredentials" duration-ms="9539" started-at="2021-05-21T07:44:12 CDT" finished-at="2021-05-21T07:44:21 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.ValidLoginTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.ValidLoginTest@6cd24612]" name="tearDown" is-config="true" duration-ms="1121" started-at="2021-05-21T07:44:21 CDT" finished-at="2021-05-21T07:44:22 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.ValidLoginTest -->
+      <class name="testcases.LogoutTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.LogoutTest@4d14b6c2]" name="setUp" is-config="true" duration-ms="5788" started-at="2021-05-21T07:40:27 CDT" finished-at="2021-05-21T07:40:33 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:testcases.LogoutTest@4d14b6c2]" name="logOut" duration-ms="19690" started-at="2021-05-21T07:42:36 CDT" finished-at="2021-05-21T07:42:56 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.LogoutTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.LogoutTest@4d14b6c2]" name="tearDown" is-config="true" duration-ms="949" started-at="2021-05-21T07:42:56 CDT" finished-at="2021-05-21T07:42:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LogoutTest -->
+      <class name="testcases.InvalidLoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.InvalidLoginTest@790da477]" name="setUp" is-config="true" duration-ms="7925" started-at="2021-05-21T07:40:19 CDT" finished-at="2021-05-21T07:40:27 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidCredentials()[pri:0, instance:testcases.InvalidLoginTest@790da477]" name="invalidCredentials" duration-ms="12535" started-at="2021-05-21T07:42:23 CDT" finished-at="2021-05-21T07:42:35 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.InvalidLoginTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.InvalidLoginTest@790da477]" name="tearDown" is-config="true" duration-ms="972" started-at="2021-05-21T07:42:35 CDT" finished-at="2021-05-21T07:42:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.InvalidLoginTest -->
+      <class name="testcases.PurchaseTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.PurchaseTest@6f15d60e]" name="setUp" is-config="true" duration-ms="8576" started-at="2021-05-21T07:40:33 CDT" finished-at="2021-05-21T07:40:42 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="purchase()[pri:0, instance:testcases.PurchaseTest@6f15d60e]" name="purchase" duration-ms="34743" started-at="2021-05-21T07:42:57 CDT" finished-at="2021-05-21T07:43:32 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.PurchaseTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- purchase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.PurchaseTest@6f15d60e]" name="tearDown" is-config="true" duration-ms="943" started-at="2021-05-21T07:43:32 CDT" finished-at="2021-05-21T07:43:33 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.PurchaseTest -->
+      <class name="testcases.SortProductsByPriceTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.SortProductsByPriceTest@71687585]" name="setUp" is-config="true" duration-ms="10620" started-at="2021-05-21T07:40:42 CDT" finished-at="2021-05-21T07:40:52 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sortProductsByPrice()[pri:0, instance:testcases.SortProductsByPriceTest@71687585]" name="sortProductsByPrice" duration-ms="37919" started-at="2021-05-21T07:43:33 CDT" finished-at="2021-05-21T07:44:11 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.SortProductsByPriceTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sortProductsByPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.SortProductsByPriceTest@71687585]" name="tearDown" is-config="true" duration-ms="925" started-at="2021-05-21T07:44:11 CDT" finished-at="2021-05-21T07:44:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.SortProductsByPriceTest -->
+      <class name="testcases.AddAllProductsTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.AddAllProductsTest@2ab4bc72]" name="setUp" is-config="true" duration-ms="22355" started-at="2021-05-21T07:39:53 CDT" finished-at="2021-05-21T07:40:15 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addAllProducts()[pri:0, instance:testcases.AddAllProductsTest@2ab4bc72]" name="addAllProducts" duration-ms="35631" started-at="2021-05-21T07:41:04 CDT" finished-at="2021-05-21T07:41:39 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.AddAllProductsTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addAllProducts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AddAllProductsTest@2ab4bc72]" name="tearDown" is-config="true" duration-ms="20760" started-at="2021-05-21T07:41:39 CDT" finished-at="2021-05-21T07:42:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddAllProductsTest -->
+      <class name="testcases.AddProductTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcases.AddProductTest@5b7a7f33]" name="setUp" is-config="true" duration-ms="4084" started-at="2021-05-21T07:40:15 CDT" finished-at="2021-05-21T07:40:19 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addProduct()[pri:0, instance:testcases.AddProductTest@5b7a7f33]" name="addProduct" duration-ms="22092" started-at="2021-05-21T07:42:00 CDT" finished-at="2021-05-21T07:42:22 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+            <line>
+              <![CDATA[Starting Test: testcases.AddProductTest]]>
+            </line>
+            <line>
+              <![CDATA[==========================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.AddProductTest@5b7a7f33]" name="tearDown" is-config="true" duration-ms="879" started-at="2021-05-21T07:42:22 CDT" finished-at="2021-05-21T07:42:23 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AddProductTest -->
+    </test> <!-- Challenge Edge Test -->
+  </suite> <!-- Challenge TestSuite -->
+</testng-results>

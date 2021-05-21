@@ -1,0 +1,177 @@
+<html>
+<head>
+<title>TestNG:  Challenge Edge Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Challenge Edge Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>7/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri May 21 07:39:53 CDT 2021</td>
+</tr>
+<tr><td>Total time:</td><td>269 seconds (269300 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testcases.ValidLoginTest.validCredentials()'><b>validCredentials</b><br>Test class: testcases.ValidLoginTest<br/>
+<a href="#Output-1539806119" onClick='toggleBox("Output-1539806119", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1539806119" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1539806119">
+==========================================<br/>
+Starting Test: testcases.ValidLoginTest<br/>
+==========================================<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>testcases.ValidLoginTest@6cd24612</td></tr>
+<tr>
+<td title='testcases.AddProductTest.addProduct()'><b>addProduct</b><br>Test class: testcases.AddProductTest<br/>
+<a href="#Output-1790122391" onClick='toggleBox("Output-1790122391", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1790122391" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1790122391">
+==========================================<br/>
+Starting Test: testcases.AddProductTest<br/>
+==========================================<br/>
+</div>
+</td>
+<td></td>
+<td>22</td>
+<td>testcases.AddProductTest@5b7a7f33</td></tr>
+<tr>
+<td title='testcases.AddAllProductsTest.addAllProducts()'><b>addAllProducts</b><br>Test class: testcases.AddAllProductsTest<br/>
+<a href="#Output-414556912" onClick='toggleBox("Output-414556912", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-414556912" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-414556912">
+==========================================<br/>
+Starting Test: testcases.AddAllProductsTest<br/>
+==========================================<br/>
+</div>
+</td>
+<td></td>
+<td>35</td>
+<td>testcases.AddAllProductsTest@2ab4bc72</td></tr>
+<tr>
+<td title='testcases.PurchaseTest.purchase()'><b>purchase</b><br>Test class: testcases.PurchaseTest<br/>
+<a href="#Output-1186888615" onClick='toggleBox("Output-1186888615", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1186888615" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1186888615">
+==========================================<br/>
+Starting Test: testcases.PurchaseTest<br/>
+==========================================<br/>
+</div>
+</td>
+<td></td>
+<td>34</td>
+<td>testcases.PurchaseTest@6f15d60e</td></tr>
+<tr>
+<td title='testcases.LogoutTest.logOut()'><b>logOut</b><br>Test class: testcases.LogoutTest<br/>
+<a href="#Output-344524901" onClick='toggleBox("Output-344524901", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-344524901" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-344524901">
+==========================================<br/>
+Starting Test: testcases.LogoutTest<br/>
+==========================================<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>testcases.LogoutTest@4d14b6c2</td></tr>
+<tr>
+<td title='testcases.InvalidLoginTest.invalidCredentials()'><b>invalidCredentials</b><br>Test class: testcases.InvalidLoginTest<br/>
+<a href="#Output-1887106439" onClick='toggleBox("Output-1887106439", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1887106439" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1887106439">
+==========================================<br/>
+Starting Test: testcases.InvalidLoginTest<br/>
+==========================================<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>testcases.InvalidLoginTest@790da477</td></tr>
+<tr>
+<td title='testcases.SortProductsByPriceTest.sortProductsByPrice()'><b>sortProductsByPrice</b><br>Test class: testcases.SortProductsByPriceTest<br/>
+<a href="#Output-687610194" onClick='toggleBox("Output-687610194", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-687610194" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-687610194">
+==========================================<br/>
+Starting Test: testcases.SortProductsByPriceTest<br/>
+==========================================<br/>
+</div>
+</td>
+<td></td>
+<td>37</td>
+<td>testcases.SortProductsByPriceTest@71687585</td></tr>
+</table><p>
+</body>
+</html>
